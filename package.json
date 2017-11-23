@@ -1,0 +1,23 @@
+{
+  "name": "learning-frontend",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mihey-38/learning-frontEnd.git"
+  },
+  "keywords": [
+    "test",
+    "study"
+  ],
+  "author": "Mikhail Minin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mihey-38/learning-frontEnd/issues"
+  },
+  "homepage": "https://github.com/Mihey-38/learning-frontEnd#readme"
+}
